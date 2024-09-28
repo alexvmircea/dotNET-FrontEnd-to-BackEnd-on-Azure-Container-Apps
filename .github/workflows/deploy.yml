@@ -9,7 +9,7 @@ env:
   # alphanumeric string under 14 characters
   RESOURCE_GROUP_NAME: rg-test-ca-dotnet
 
-  # specify your preferred region
+  # specify your preferred region 
   REGION: westus
 
 permissions:
